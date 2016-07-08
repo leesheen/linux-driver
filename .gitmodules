@@ -7,3 +7,6 @@
 [submodule "wireless/rtl8192su"]
 	path = wireless/rtl8192su
 	url = https://github.com/chunkeey/rtl8192su
+[submodule "wireless/rtl8192eu"]
+	path = wireless/rtl8192eu
+	url = https://github.com/Mange/rtl8192eu-linux-driver
