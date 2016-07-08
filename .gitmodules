@@ -1,0 +1,3 @@
+[submodule "bluetooth/rtl8723bs_bt"]
+	path = bluetooth/rtl8723bs_bt
+	url = https://github.com/lwfinger/rtl8723bs_bt.git
