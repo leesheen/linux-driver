@@ -10,3 +10,9 @@
 [submodule "wireless/rtl8192eu"]
 	path = wireless/rtl8192eu
 	url = https://github.com/Mange/rtl8192eu-linux-driver
+[submodule "wireless/rtl8188eu"]
+	path = wireless/rtl8188eu
+	url = https://github.com/lwfinger/rtl8188eu
+[submodule "wireless/mt7630e"]
+	path = wireless/mt7630e
+	url = git@github.com:kuba-moo/mt7630e.git
