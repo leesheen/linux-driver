@@ -4,3 +4,6 @@
 [submodule "wireless/rtl8723bs"]
 	path = wireless/rtl8723bs
 	url = https://github.com/hadess/rtl8723bs.git
+[submodule "wireless/rtl8192su"]
+	path = wireless/rtl8192su
+	url = https://github.com/chunkeey/rtl8192su
