@@ -19,3 +19,6 @@
 [submodule "wireless/rtl8723bs-lwfinger"]
 	path = wireless/rtl8723bs-lwfinger
 	url = https://github.com/lwfinger/rtl8723bs
+[submodule "wireless/MT7603U"]
+	path = wireless/MT7603U
+	url = https://github.com/artificerpi/MT7603U.git
