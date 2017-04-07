@@ -15,7 +15,7 @@
 	url = https://github.com/lwfinger/rtl8188eu
 [submodule "wireless/mt7630e"]
 	path = wireless/mt7630e
-	url = git@github.com:kuba-moo/mt7630e.git
+	url = https@github.com/kuba-moo/mt7630e.git
 [submodule "wireless/rtl8723bs-lwfinger"]
 	path = wireless/rtl8723bs-lwfinger
 	url = https://github.com/lwfinger/rtl8723bs
