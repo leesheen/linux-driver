@@ -22,3 +22,6 @@
 [submodule "wireless/MT7603U"]
 	path = wireless/MT7603U
 	url = https://github.com/artificerpi/MT7603U.git
+[submodule "video/xf86-video-vmware"]
+	path = video/xf86-video-vmware
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-vmware
